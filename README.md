@@ -1,1 +1,3 @@
-# PwaTask
+npm i 
+
+npm start
